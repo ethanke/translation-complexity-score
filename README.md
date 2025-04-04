@@ -1,6 +1,6 @@
 # Translation Complexity Scorer
 
-A state-of-the-art tool for scoring translation complexity using multiple metrics and machine learning approaches. This tool helps translators, language service providers, and researchers assess text complexity to optimize translation workflows and resource allocation.
+A tool for scoring translation complexity using multiple metrics and machine learning approaches. This tool helps translators, language service providers, and researchers assess text complexity to optimize translation workflows and resource allocation.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
