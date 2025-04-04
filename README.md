@@ -1,6 +1,6 @@
 # Translation Complexity Scorer
 
-A state-of-the-art tool for scoring translation complexity using multiple metrics and approaches.
+A tool for scoring translation complexity using multiple metrics and approaches.
 
 ## Features
 
