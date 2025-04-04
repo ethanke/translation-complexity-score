@@ -44,7 +44,7 @@ A state-of-the-art tool for scoring translation complexity using multiple metric
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/translation-complexity-score.git
+git clone https://github.com/ethanke/translation-complexity-score.git
 cd translation-complexity-score
 
 # Create a virtual environment (recommended)
